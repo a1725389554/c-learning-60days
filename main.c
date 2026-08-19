@@ -2,7 +2,6 @@
 #include<stdio.h>
 #include<stdlib.h>
 // Day10 git test
-// git test
 int main() {
     int count = 0;
     //Student arr[100];
