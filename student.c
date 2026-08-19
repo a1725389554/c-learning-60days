@@ -1,7 +1,8 @@
 #include"student.h"
 #include<stdio.h>
 #include<stdlib.h>
-
+//void deleteStudent(Student *arr, int *count)
+    // 暂时测试
 void addStudent(Student **arr,int *count, int *capacity) {
     printf("请输入id和age:");
     if(*count >= *capacity) {
