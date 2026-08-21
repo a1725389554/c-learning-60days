@@ -7,7 +7,7 @@ int main() {
     //Student arr[100];
     int choice;
     int capacity = 2;
-    printf("Hello teammate!\n");// GitHub teammate up
+    printf("Hello teammate!\n");// 草泥马
     Student *arr = (Student *)malloc((capacity * sizeof(Student)));
     while(1) {
         printf("1. 添加学生\n");
