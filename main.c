@@ -7,7 +7,7 @@ int main() {
     //Student arr[100];
     int choice;
     int capacity = 2;
-
+    printf("Hello teammate!\n");
     Student *arr = (Student *)malloc((capacity * sizeof(Student)));
 
     while(1) {
