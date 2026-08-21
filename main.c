@@ -9,7 +9,6 @@ int main() {
     int capacity = 2;
     printf("Hello teammate!\n");
     Student *arr = (Student *)malloc((capacity * sizeof(Student)));
-
     while(1) {
         printf("1. 添加学生\n");
         printf("2. 打印学生\n");
